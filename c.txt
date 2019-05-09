@@ -1,8 +1,1 @@
   aa
-  bb
-  cc
-  ee
-  dd
-  ff
-
-  gg
